@@ -95,7 +95,7 @@ h5 {
 }
 
 @media screen and (max-width: 468px) {
-    body {
+    .section-header {
         display: flex;
         flex-wrap: wrap;
     }
